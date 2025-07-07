@@ -33,9 +33,13 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
 <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+<img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
 <img width="12" />
